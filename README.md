@@ -35,9 +35,9 @@ Global gaming market, with a significant focus on Blizzard's diverse portfolio o
 
 Activision Blizzard aims to address challenges in game development by leveraging AI technology. They seek to optimize game creation timelines, expedite updates and patches, and enhance design elements like artwork and environment layout. The company maintains strict confidentiality regarding its AI development to prevent code leaks and potential exploitation by competitors.
 
-### Current AI Implementation
+> ### Current AI Implementation
 
-While specific details about their gaming AI remain confidential, Activision Blizzard has deployed AI in content moderation. For instance, in games like Call of Duty, AI algorithms monitor in-game chats to identify and penalize users engaging in hate speech.
+> While specific details about their gaming AI remain confidential, Activision Blizzard has deployed AI in content moderation. For instance, > in games like Call of Duty, AI algorithms monitor in-game chats to identify and penalize users engaging in hate speech.
 
 ## Industry Landscape
 
