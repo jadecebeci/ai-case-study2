@@ -11,7 +11,7 @@
 - Activision - October 1, 1979;
 - Blizzard - February 8, 1991;
 - Activision Blizzard - October 13, 2023
--  
+
 **Founders:** 
 - Activision - `Alan Miller`, `Bob Whitehead`, `David Crane`, `Jim Levy`, `Larry Kaplan`; 
 - Blizzard - `Allen Adham`, `Frank Pearce`, `Michael Morhaime`
