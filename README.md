@@ -7,12 +7,15 @@
 **Company Name:**
 [Activision Blizzard](https://www.activisionblizzard.com/)  
 **Founded:** 
--Activision - October 1, 1979;
--Blizzard - February 8, 1991;
--Activision Blizzard - October 13, 2023  
+Activision - October 1, 1979;
+
+Blizzard - February 8, 1991;
+
+Activision Blizzard - October 13, 2023  
 **Founders:** 
--Activision - `Alan Miller`, `Bob Whitehead`, `David Crane`, `Jim Levy`, `Larry Kaplan`; 
--Blizzard - `Allen Adham`, `Frank Pearce`, `Michael Morhaime`  
+Activision - `Alan Miller`, `Bob Whitehead`, `David Crane`, `Jim Levy`, `Larry Kaplan`; 
+
+Blizzard - `Allen Adham`, `Frank Pearce`, `Michael Morhaime`  
 **Funding:**
 $4.47 billion across 233 funding rounds with 637 investors  
 **Industry:**
