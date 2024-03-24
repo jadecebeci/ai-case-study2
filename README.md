@@ -4,24 +4,25 @@
 
 ## Company Overview
 
-**Company Name:** [Activision Blizzard](https://www.activisionblizzard.com/)  
+**Company Name:** 
+[Activision Blizzard](https://www.activisionblizzard.com/)  
 **Founded:** 
-- Activision - October 1, 1979;
-- Blizzard - February 8, 1991;
-- Activision Blizzard - October 13, 2023  
+Activision - October 1, 1979;
+Blizzard - February 8, 1991;
+Activision Blizzard - October 13, 2023  
 **Founders:** 
-- Activision - `Alan Miller`, `Bob Whitehead`, `David Crane`, `Jim Levy`, `Larry Kaplan`; 
-- Blizzard - `Allen Adham`, `Frank Pearce`, `Michael Morhaime`  
+Activision - `Alan Miller`, `Bob Whitehead`, `David Crane`, `Jim Levy`, `Larry Kaplan`; 
+Blizzard - `Allen Adham`, `Frank Pearce`, `Michael Morhaime`  
 **Funding:**
-- $4.47 billion across 233 funding rounds with 637 investors  
+$4.47 billion across 233 funding rounds with 637 investors  
 **Industry:**
-- Gaming Development  
+Gaming Development  
 **Audience:**
-- Gaming enthusiasts, individuals seeking entertainment  
+Gaming enthusiasts, individuals seeking entertainment  
 **Business Solution:**
-- Utilizing AI technology to revolutionize game development processes, including NPC design, artwork creation, environment layout, and story writing  
+Utilizing AI technology to revolutionize game development processes, including NPC design, artwork creation, environment layout, and story writing  
 **Market Size:**
-- Global gaming market, with a significant focus on Blizzard's diverse portfolio of games and [Activision Blizzard](https://www.activisionblizzard.com/)'s subsidiary studios  
+Global gaming market, with a significant focus on Blizzard's diverse portfolio of games and [Activision Blizzard](https://www.activisionblizzard.com/)'s subsidiary studios  
 
 ## Technological Innovations
 
